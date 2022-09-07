@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Juan David, Nice to see you!</h1>
-<p>Welcome to my profle! </br> I'm Fullstack developer from <img src="https://image.flaticon.com/icons/png/512/197/197575.png" width="13"/> <b>Bucaramanga, Colombia</b>, currently living in <img src="https://image.flaticon.com/icons/png/512/197/197521.png" width="13"/> <b>Manama, Bahrain</b>. </p>
+<p>Welcome to my profle! </br> I'm Fullstack developer from <img src="https://images.emojiterra.com/openmoji/v13.1/128px/1f1e8-1f1f4.png" width="13"/> <b>Bucaramanga, Colombia</b>, currently living in <img src="https://images.emojiterra.com/openmoji/v13.1/128px/1f1e7-1f1ed.png" width="13"/> <b>Manama, Bahrain</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
